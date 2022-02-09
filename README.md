@@ -1,6 +1,6 @@
 # Maleware-Detection-Behavioral-Based
 Detect any abnormal behavior and block from executing again
-#Requirements
+# Requirements
 1-gcc compiler 
 sudo apt-get install gcc
 2-python3 
